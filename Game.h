@@ -36,6 +36,7 @@ class Game
 		void update();
 		void render();
 		void run();
+		void nothing();
 };
 
 #endif
