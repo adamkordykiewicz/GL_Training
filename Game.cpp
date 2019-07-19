@@ -155,6 +155,7 @@ void Game::render()
 	_window->display();
 }
 
+// this code has no comments
 void Game::run()
 {
 	while(_window->isOpen())
