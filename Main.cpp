@@ -3,6 +3,7 @@
 
 int main()
 {
+	std::cout<< "Trololololo"<<std::endl;
 	Game game;
 	std::cout << "CAA was here!!!!";
 	game.run();
